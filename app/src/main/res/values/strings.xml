@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNilai_hafizalmukarom</string>
+
+    <string name="form_title">Input Nilai Mahasiswa</string>
+    <string name="form_title2">Proses Input Nilai Mahasiswa</string>
+    <string name="form_subtitle">Pilih Mata Kuliah</string>
+    <string name="input_name_hint">NIM</string>
+    <string name="input_email_hint">NAMA</string>
+    <string name="input_phone_hint">PRESENSI</string>
+    <string name="input_password_hint">TUGAS</string>
+    <string name="input_uts">UTS</string>
+    <string name="input_uas">UAS</string>
+    <string name="button_reg_save">Submit</string>
+    <string name="button_reg_next">Next</string>
+</resources>
